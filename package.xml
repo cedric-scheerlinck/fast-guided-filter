@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package>
+  <name>fast-guided-filter</name>
+  <version>0.0.0</version>
+  <description>The fast-guided-filter package</description>
+  <maintainer email="cedric.scheerlinck@anu.edu.au">Cedric</maintainer>
+  <license>MIT</license>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+
+  
+</package>
